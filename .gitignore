@@ -1,0 +1,6 @@
+mariadb/*
+nextcloud/*
+nginx-proxy-manager/*
+portainer/*
+vaultwarden/*
+.env
